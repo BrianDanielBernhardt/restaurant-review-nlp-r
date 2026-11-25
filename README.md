@@ -102,4 +102,12 @@ docs/               Methodology, instructions, and data-use notes
 
 Original sample extract: [*Yelp Restaurant Reviews Sentiment Dataset* (Zenodo)](https://zenodo.org/records/18723813), DOI: [10.5281/zenodo.18723813](https://doi.org/10.5281/zenodo.18723813). The underlying text derives from the Yelp Open Dataset; its terms of use are separate from any license applicable to the analysis code. This project is **not affiliated with or endorsed by Yelp**.
 
-**Code licensing:** No open-source license has been assigned in this prepared version. Add one only after deciding how you want others to reuse your scripts. See [Data use and limitations](docs/DATA_AND_LIMITATIONS.md) before making the repository public.
+### License and data use
+
+The original R scripts in this repository are released under the MIT License. See [LICENSE](LICENSE).
+
+The Yelp restaurant-review dataset is not included and is not covered by the MIT License. Original data and any dataset-derived materials remain subject to their applicable terms of use.
+
+Dataset source: [Yelp Restaurant Reviews Sentiment Dataset](https://doi.org/10.5281/zenodo.18723813).
+
+If you use this project for academic or educational purposes, please acknowledge the repository and its author.
