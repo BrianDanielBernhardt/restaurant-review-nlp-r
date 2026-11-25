@@ -1,0 +1,5 @@
+label,n,split
+negative,960,train
+positive,960,train
+negative,240,test
+positive,240,test
